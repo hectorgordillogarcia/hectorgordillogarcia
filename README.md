@@ -10,11 +10,11 @@ I love tackling technical challenges, solving complex problems, and collaboratin
 
 ## 🔧 Technical Skills
 - **Process Automation**
-- **Industrial Robot Manipulation** (RobotStudio, VAL3, URSIM)
+- **Industrial Robot Manipulation** (RobotStudio, VAL3, URSIM, ROS2)
 - **Computer Vision**
 - **Mechanical Design and 3D Modeling** (SolidWorks - Professional Level)
-- **Programming:** C#, C++, Python
-- **3D Simulation** (Visual Components)
+- **Programming:** (C#, C++, C, Python, MATLAB)
+- **3D Simulation** (Visual Components, GAZEBO)
 - **3D Printing**
 
 ---
