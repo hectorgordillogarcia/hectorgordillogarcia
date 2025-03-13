@@ -27,9 +27,9 @@ I love tackling technical challenges, solving complex problems, and collaboratin
 
 ## 🎨 Featured Projects
 - **Digital Twin of the Screw Insertion Station FMS-200** *(Beckhoff)*
-- **AI-Powered Braille Recognition System Using YOLO and OpenCV for Real-Time Text Conversion
-- **Autonomous Underground Exploration Robot for Mine Navigation and Hazard Detection
-- **Reinforcement Learning-Based Adaptive Traffic Signal Control Using SUMO for Madrid Road Networks
+- **AI-Powered Braille Recognition System Using YOLO and OpenCV for Real-Time Text Conversion**
+- **Autonomous Underground Exploration Robot for Mine Navigation and Hazard Detection**
+- **Reinforcement Learning-Based Adaptive Traffic Signal Control Using SUMO for Madrid Road Networks**
 ---
 
 ## 👥 Connect with Me
