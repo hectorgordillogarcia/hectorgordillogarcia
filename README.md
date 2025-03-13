@@ -16,6 +16,7 @@ I love tackling technical challenges, solving complex problems, and collaboratin
 - **Programming:** (C#, C++, C, Python, MATLAB)
 - **3D Simulation** (Visual Components, GAZEBO)
 - **3D Printing**
+- **C# Object-Oriented Development**
 
 ---
 
